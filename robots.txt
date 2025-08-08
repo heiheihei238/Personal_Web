@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://personal-web-e9s.pages.dev/sitemap.xml
